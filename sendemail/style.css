@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Kanit:wght@100;200;300;400&family=Mukta:wght@200;300;400;600&family=Nunito:wght@200;300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500&family=Roboto:ital,wght@0,100;0,300;0,400;0,700;0,900;1,500&family=Titillium+Web:ital,wght@0,200;0,300;0,400;1,400&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Dancing Script", cursive;
+  font-family: "Kanit", sans-serif;
+  font-family: "Mukta", sans-serif;
+  font-family: "Nunito", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Titillium Web", sans-serif;
+}
+
+.container-fluid {
+  background: #ADD8E6;
+  height: 100vh;
+}/*# sourceMappingURL=style.css.map */
